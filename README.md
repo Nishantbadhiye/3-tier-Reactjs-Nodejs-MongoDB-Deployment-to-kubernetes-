@@ -1,6 +1,8 @@
 # 3-tier-Reactjs-Nodejs-MongoDB-Deployment-to-kubernetes-
 Docker + ECR + k8's (service) + IngressController+ALB + User
 
+<img width="856" height="361" alt="image" src="https://github.com/user-attachments/assets/e03a77cb-10db-4bd4-b08a-a9b50b558d9e" />
+
 ### Step 1: IAM Configuration
 - Create a user `eks-admin` with `AdministratorAccess`.
 - Generate Security Credentials: Access Key and Secret Access Key.
